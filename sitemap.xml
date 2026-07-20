@@ -1,107 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="https://www.xml-sitemaps.com/css/sitemap.css"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-       <loc>https://analisecerta.pages.dev/</loc>
-       <lastmod>2026-07-19T23:22:29+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>1.0000</priority>
+    <loc>https://analisecerta.pages.dev/</loc>
+    <lastmod>2026-07-19</lastmod>
   </url>
+
   <url>
-       <loc>https://analisecerta.pages.dev/samsunga17</loc>
-       <lastmod>2026-07-19T23:22:29+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
+    <loc>https://analisecerta.pages.dev/aspiradorxiaomi.html</loc>
+    <lastmod>2026-07-19</lastmod>
   </url>
+
   <url>
-       <loc>https://analisecerta.pages.dev/ps5</loc>
-       <lastmod>2026-07-19T23:22:29+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
+    <loc>https://analisecerta.pages.dev/aviso-afiliados.html</loc>
+    <lastmod>2026-07-19</lastmod>
   </url>
+
   <url>
-       <loc>https://analisecerta.pages.dev/asusvivobook</loc>
-       <lastmod>2026-07-19T23:22:29+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
+    <loc>https://analisecerta.pages.dev/Iphone17PRO.html</loc>
+    <lastmod>2026-07-19</lastmod>
   </url>
+
   <url>
-       <loc>https://analisecerta.pages.dev/airpods3</loc>
-       <lastmod>2026-07-19T23:22:29+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
+    <loc>https://analisecerta.pages.dev/LenovoLOQ15.html</loc>
+    <lastmod>2026-07-19</lastmod>
   </url>
+
   <url>
-       <loc>https://analisecerta.pages.dev/creatina</loc>
-       <lastmod>2026-07-19T23:22:29+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
+    <loc>https://analisecerta.pages.dev/Nintendoswitch2.html</loc>
+    <lastmod>2026-07-19</lastmod>
   </url>
+
   <url>
-       <loc>https://analisecerta.pages.dev/todas-analises</loc>
-       <lastmod>2026-07-19T23:22:29+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
+    <loc>https://analisecerta.pages.dev/politica-privacidade.html</loc>
+    <lastmod>2026-07-19</lastmod>
   </url>
+
   <url>
-       <loc>https://analisecerta.pages.dev/sobre</loc>
-       <lastmod>2026-07-19T23:22:29+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
+    <loc>https://analisecerta.pages.dev/SamsungGalaxyA56.html</loc>
+    <lastmod>2026-07-19</lastmod>
   </url>
+
   <url>
-       <loc>https://analisecerta.pages.dev/termos-de-uso</loc>
-       <lastmod>2026-07-19T23:22:29+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
+    <loc>https://analisecerta.pages.dev/sobre.html</loc>
+    <lastmod>2026-07-19</lastmod>
   </url>
+
   <url>
-       <loc>https://analisecerta.pages.dev/politica-privacidade</loc>
-       <lastmod>2026-07-19T23:22:29+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
+    <loc>https://analisecerta.pages.dev/termos-de-uso.html</loc>
+    <lastmod>2026-07-19</lastmod>
   </url>
+
   <url>
-       <loc>https://analisecerta.pages.dev/aviso-afiliados</loc>
-       <lastmod>2026-07-19T23:22:29+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
+    <loc>https://analisecerta.pages.dev/todas-analises.html</loc>
+    <lastmod>2026-07-19</lastmod>
   </url>
+  
   <url>
-       <loc>https://analisecerta.pages.dev/Iphone17PRO</loc>
-       <lastmod>2026-07-19T23:22:29+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.4096</priority>
+    <loc>https://analisecerta.pages.dev/samsunga17.html</loc>
+    <lastmod>2026-07-19</lastmod>
   </url>
+  
   <url>
-       <loc>https://analisecerta.pages.dev/SamsungGalaxyA56</loc>
-       <lastmod>2026-07-19T23:22:29+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.4096</priority>
+    <loc>https://analisecerta.pages.dev/ps5.html</loc>
+    <lastmod>2026-07-19</lastmod>
   </url>
+  
   <url>
-       <loc>https://analisecerta.pages.dev/Nintendoswitch2</loc>
-       <lastmod>2026-07-19T23:22:29+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.4096</priority>
+    <loc>https://analisecerta.pages.dev/asusvivobook.html</loc>
+    <lastmod>2026-07-19</lastmod>
   </url>
+  
   <url>
-       <loc>https://analisecerta.pages.dev/LenovoLOQ15</loc>
-       <lastmod>2026-07-19T23:22:29+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.4096</priority>
+    <loc>https://analisecerta.pages.dev/airpods3.html</loc>
+    <lastmod>2026-07-19</lastmod>
   </url>
+  
   <url>
-       <loc>https://analisecerta.pages.dev/aspiradorxiaomi</loc>
-       <lastmod>2026-07-19T23:22:29+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.4096</priority>
+    <loc>https://analisecerta.pages.dev/creatina.html</loc>
+    <lastmod>2026-07-19</lastmod>
   </url>
+  
   <url>
-       <loc>https://analisecerta.pages.dev/galaxys26</loc>
-       <lastmod>2026-07-19T23:22:29+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.4096</priority>
+    <loc>https://analisecerta.pages.dev/galaxys26.html</loc>
+    <lastmod>2026-07-19</lastmod>
   </url>
+
 </urlset>
